@@ -2,7 +2,8 @@
 
 ## 🏠 About
 
-**[BugMan Pest Control](bugmanpestcontrol.us)** is a professional pest control service designed to help homeowners and businesses manage pest infestations effectively. The website serves as the digital front of the company, providing a user-friendly platform for customers to learn about services, book pest control treatments, and contact experts for consultations.
+**[BugMan Pest Control](https://bugmanpestcontrol.us)** is a professional pest control service designed to help homeowners and businesses manage pest infestations effectively. The website serves as the digital front of the company, providing a user-friendly platform for customers to learn about services, book pest control treatments, and contact experts for consultations.
+
 
 ### Why This Website Was Created
 The BugMan Pest Control website was developed to:
